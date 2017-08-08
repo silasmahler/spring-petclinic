@@ -9,6 +9,7 @@
 	cd spring-petclinic
 	./mvnw spring-boot:run
 ```
+Test
 
 You can then access petclinic here: http://localhost:8080/
 
